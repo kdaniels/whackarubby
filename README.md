@@ -4,6 +4,11 @@ A game based on _Learn Game Programming With Ruby_ by Mark Sobkowicz.
 
 ### How to Play
 
+```
+bundle install
+ruby whackarubby.rb
+```
+
 Rubby is terrible, so hit the rubby with the hammer. DON'T HIT THE KITTEN. Kittens are not terrible. If you hit the kitten, you lose.
 
 ![screenshot from the whack a rubby game](https://github.com/kdaniels/whackarubby/raw/master/images/screenshot.png "Seriously, don't hit the kitten.")
